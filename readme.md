@@ -5,7 +5,7 @@
 <strong>Tailwind, Browsersync, JavaScript Bundling, Image Optimize, Component Method, Rsync Deploy</strong>
 
 <p>
-  <img src="https://raw.githubusercontent.com/agragregra/oht/master/dist/img/preview.jpg" alt="Start HTML Template">
+  <img src="https://raw.githubusercontent.com/webdesign-masteru/OptimizedHTML-TW/master/dist/img/preview.jpg" alt="Start HTML Template">
 </p>
 
 <p><strong>OptimizedHTML TW</strong> - lightweight startup environment with <strong>Gulp</strong>, <strong>Tailwind</strong>, <strong>Browsersync</strong>, <strong>PostCSS</strong>, <strong>Webpack</strong>, <strong>Babel</strong>, <strong>Image Compression</strong> and <strong>Rsync</strong>. It uses best practices of images compression, JavaScript bundling, CSS optimizing and contains a <strong>.htaccess</strong> code for resources caching (images, fonts, HTML, CSS, JS and other content types).</p>
@@ -15,11 +15,11 @@
 <p>Clone into the current folder with remove all unnecessary (one command):</p>
 
 ```
-git clone https://github.com/agragregra/oht .; rm -rf trunk .gitignore readme.md .git
+git clone https://github.com/webdesign-masteru/OptimizedHTML-TW .; rm -rf trunk .gitignore readme.md .git
 ```
 
 <ol>
-  <li>Clone or <a href="https://github.com/agragregra/OptimizedHTML-TW/archive/master.zip">Download</a> <strong>OptimizedHTML TW</strong> from GitHub</li>
+  <li>Clone or <a href="https://github.com/webdesign-masteru/OptimizedHTML-TW/archive/master.zip">Download</a> <strong>OptimizedHTML TW</strong> from GitHub</li>
   <li>Install Node Modules: <strong>npm i</strong></li>
   <li>Run: <strong>npm run dev</strong></li>
   <li>Build: <strong>npm run build</strong></li>
